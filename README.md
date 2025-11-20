@@ -6,7 +6,7 @@ Advanced mobile device analysis tool for Termux that performs:
 - Real-time cell tower monitoring
 - GPS location tracking
 - Device fingerprinting
-- IMSI/IMEI analysis
+- IMSI/IMEI analysis (stupid) 
 - Network reconnaissance
 
 ### Key Features
